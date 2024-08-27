@@ -1,8 +1,11 @@
 ### Hi there 👋
-my name is Mi-Young Wessels and I am a Web Development student at DCI.
+I’m Mi-Young Wessels, a web development student at DCI, currently working towards becoming a Full Stack Developer. I’m passionate about learning new things and solving problems. I enjoy creating practical solutions and exploring new ideas. In my free time, I enjoy spending time with my family and kids, focusing on a healthy lifestyle and visiting new places.
 
-
-
+- 🔭 **Current Focus:** Concentrating on learning and refining web development techniques, and preparing for future project opportunities.
+- 🌱 **Learning:** Improving my skills in Single Page Applications (SPA) with frameworks like React.
+- 👯 **Looking to Collaborate:** Interested in joining projects related to web development, user interface design, or full stack work.
+- 💬 **Let’s Talk About:** Web development, tech solutions, personal goals, or anything related to family life and healthy living.
+- 📫 **Reach Me At:** [mi-young.wessels@dci-student.org](mailto:mi-young.wessels@dci-student.org)
 
 <!--
 **MingWessels/MingWessels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
